@@ -4,7 +4,7 @@ Codebase for paper: MeCo: Enhancing LLM-Empowered Multi-Robot Collaboration via 
 
 Baiqing Wang, [Helei Cui](https://harrycui.github.io/), [Bo Zhang](https://bozhangcs.github.io/), [Xiaolong Zheng](https://xiaolongbupt.github.io/), [Bin Guo](http://www.guob.org/), [Zhiwen Yu](https://www.crowdos.cn/yu/publication.htm)
 
-AAMAS 2026 | Arxiv
+AAMAS 2026 | [Arxiv](https://arxiv.org/abs/2601.20577)
 
 ![workflow.png](workflow.png)
 
