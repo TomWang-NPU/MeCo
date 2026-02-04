@@ -102,7 +102,7 @@ This script will generate random seeds that are similar/dissimilar/random to the
 
 ### Contact
 
-Please direct to Baiqing Wang.
+Please direct to Baiqing Wang (Email: wbq@mail.nwpu.edu.cn).
 
 ## Codebase adapted from:
 
